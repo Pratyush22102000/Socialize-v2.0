@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "123472244821",
+    "project_id": "dummy2chatapp",
+    "storage_bucket": "dummy2chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123472244821:android:8b88762c70c82f3c7c24dc",
+        "android_client_info": {
+          "package_name": "com.example.dummy2chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123472244821-a1gcmulfc8m353tcg5c536rluhs7onvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dummy2chatapp",
+            "certificate_hash": "f0bb1cf1dd30771bc93305322e5c887d82a97609"
+          }
+        },
+        {
+          "client_id": "123472244821-cc5un088csupfcdd5vljck8f9c16ddc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMfTLJxhdDXLdDj1q7PTT_rkVlzugDg5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123472244821-cc5un088csupfcdd5vljck8f9c16ddc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
